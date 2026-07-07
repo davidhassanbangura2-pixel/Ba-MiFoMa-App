@@ -1,0 +1,11 @@
+{
+  "name": "Ba MiFoMa App",
+  "description": "A social application featuring chat, news, and calling features.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
